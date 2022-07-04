@@ -37,7 +37,7 @@ Dentro da pasta do projeto digite:
  ```docker build .```
 
 ### Após realizar o build, digite o comando abaixo, para executar o container:
-```docker run -p 3005:3055 -identificação do container```
+```docker run -p 3005:3005 -identificação do container```
 
 ## Agora com o mongodb e backend funcionado volte a configuração do frontend:
 <a href="https://github.com/aryherton/WineTestSelec"> >>> Frontend <<<</a><br /><br />
