@@ -26,6 +26,15 @@ Dentro da pasta do projeto digite:
 #### Em seguida crie dentro do db "Wine" uma collection com o nome: "users"
 
 ## 🔩 Agora com o mongodb configurado(Wine > users):
+
+#### Baixe o projeto;
+
+```git clone git@github.com:aryherton/wine_backend.git```
+
+#### Realize a instalação:
+
+```npm install```
+
 #### digite o comando abaixo para subir o backend
 ```npm run dev```
 
