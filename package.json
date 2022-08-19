@@ -11,6 +11,10 @@
     "startNodemon": "nodemon --watch \"./src/**\" ./src/server.ts",
     "dev": "nodemon --watch \"./src/**\" --ext \"ts,json\" --ignore \"src/**/*.spec.ts\" --exec \"ts-node src/server.ts\""
   },
+  "engines": {
+    "node": "12.14.0",
+    "yarn": "1.x"
+  },
   "author": {
     "name": "Ary Barbosa",
     "email": "aryhertonbarbosa@gmail.com",
