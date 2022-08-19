@@ -26,11 +26,6 @@ Dentro da pasta do projeto digite:
 #### Em seguida crie dentro do db "Wine" uma collection com o nome: "users"
 
 ## 🔩 Agora com o mongodb configurado(Wine > users):
-
-#### Baixe o projeto;
-
-```git clone git@github.com:aryherton/wine_backend.git```
-
 #### Realize a instalação:
 
 ```npm install```
@@ -42,7 +37,7 @@ Dentro da pasta do projeto digite:
  ```docker build .```
 
 ### Após realizar o build, digite o comando abaixo, para executar o container:
-```docker run -p 3005:3055 -identificação do container```
+```docker run -p 3005:3005 -identificação da imagem(docker)```
 
 ## Agora com o mongodb e backend funcionado volte a configuração do frontend:
 <a href="https://github.com/aryherton/WineTestSelec"> >>> Frontend <<<</a><br /><br />
